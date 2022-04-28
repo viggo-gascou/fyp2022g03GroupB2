@@ -13,13 +13,13 @@ with open("manual_annotation.txt", "r") as f:
         lines[i] = (int(line[0]), line[1])
 
 output = ["idx, irony"]
+buffer = [">", "Not irony", "|", "Irony"]
 
 for idx, tweet in lines:
     print("\n\n")
     print(tweet)
     print()
     print("Make a selection")
-    buffer = [">", "Not irony", "|", "Irony"]
     print_buf(buffer)
     key = getkey()
     while key != keys.ENTER:
@@ -39,5 +39,5 @@ for idx, tweet in lines:
 
 
 name = input("Type your name: ")
-with open(f"annotation_result_{name}.txt", "w") as f:
+with open(f"annotation_result_{name}.csv", "w") as f:
     f.write("\n".join(output))
