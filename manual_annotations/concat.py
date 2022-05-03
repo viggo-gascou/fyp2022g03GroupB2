@@ -10,6 +10,6 @@ df = pd.DataFrame({"idx": tweet_ids})
 for i, name in enumerate(names):
     df[name.title()] = pd.read_csv(f"annotation_result_{names[i]}.csv")[" irony"]
 
-df = df.sort_values(by=['idx'])
+df.sort_values(by=['idx'], inplace=True)
 
-df.to_csv("annotation_results.csv")
+df.to_csv("annotation_results.csv", index=False)
