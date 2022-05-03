@@ -1,0 +1,3 @@
+[submodule "tweeteval"]
+	path = tweeteval
+	url = https://github.com/cardiffnlp/tweeteval
