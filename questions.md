@@ -7,3 +7,4 @@
 - Do we need to split the training dataset, since there already is a training/
   validation/test split.
 
+- How we do the data augmentation task
