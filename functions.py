@@ -24,3 +24,10 @@ def preprocess(text):
         tweet = " ".join(word_list)
         new_tweets.append(tweet)
     return np.asarray(new_tweets)
+
+def preprocess_tweet(tweet):
+    word_list = []
+    for word in tweet.split(" "):
+        word = contractions.fix(word.lower())
+        word_list.append(NORMALIZATIONS.get(word, word))
+    return " ".join(word_list)
