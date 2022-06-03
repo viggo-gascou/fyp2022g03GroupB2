@@ -1,0 +1,446 @@
+commit fdfb54563e0c3a2eb65a3ccfc54fcd2e8e5a5ce2
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Wed Jun 1 15:57:55 2022 +0200
+
+    rename handin.zip -> code.zip
+
+commit def01ecd6ed51b6a1d3a18924017d65a1ff6529d
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Wed Jun 1 15:56:09 2022 +0200
+
+    compress handin
+
+commit 54a30ffe9f886ad3d99f101eeb3968233cbc7726
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Wed Jun 1 13:52:00 2022 +0000
+
+    delete figures
+
+commit 34d14b68430b603e399cd2ba8f52f63d6bfbabdb
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Wed Jun 1 13:44:29 2022 +0000
+
+    create handin folder, comment code
+
+commit 0f175de047e8a0fce73c4a3c17d2767ba06bfbd3
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Mon May 30 12:43:51 2022 +0000
+
+    move plot to figures
+
+commit 247462313039543520a784af95dfc874de679df7
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Mon May 30 12:43:20 2022 +0000
+
+    deepnote update
+
+commit 7722ba17398807ca6fa44b1d1cc86a46907fa504
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu May 19 14:05:25 2022 +0200
+
+    add broad tweet dataset
+
+commit c16f4a6b0c88a65d2005b48be433de49433597bb
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu May 19 12:00:34 2022 +0000
+
+    deepnote push
+
+commit 09e8ed7419bf9741004ae981f53a4a6f2f99c937
+Merge: 6434163 886db7e
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu May 19 13:42:37 2022 +0200
+
+    Merge branch 'main' of https://github.com/viggo-gascou/fyp2022p03GroupB2
+
+commit 6434163e63930978a8c8d118a4f4739f8f3ffaaf
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu May 19 13:41:47 2022 +0200
+
+    add answers
+
+commit 886db7e6006b263559240d4fc8c6b1b2982755ee
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu May 19 13:01:07 2022 +0200
+
+    Update questions.md
+
+commit ef5117fe9a7d71fe4603e657b7818dc4319205b1
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu May 19 11:33:12 2022 +0200
+
+    add questions
+
+commit 1e1ee6b47227777194fea12f39aef3ab9e2e1b55
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu May 19 09:28:07 2022 +0000
+
+    deepnote update
+
+commit cf39c1f7c0c978b235889576a1499c9642371063
+Merge: 37710b8 6dd727d
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue May 10 10:54:45 2022 +0000
+
+    Merge branch 'main' of https://github.com/viggo-gascou/fyp2022p03GroupB2 into main
+
+commit 37710b8304a97ab8422759b88eaea45841307ef3
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue May 10 10:54:30 2022 +0000
+
+    save snapshop
+
+commit 6dd727d7ca1dc3c07931ea575107dff0cb40451d
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue May 3 18:27:37 2022 +0200
+
+    added/fixed tweeteval
+
+commit 7fc462e5d7cb83ad6302d0467a6f3817d1b29328
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue May 3 18:27:20 2022 +0200
+
+    ff
+
+commit 29ede2f28d8d6f57eaa12faf83d420f6544e5b18
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue May 3 16:10:29 2022 +0000
+
+    cleared outputs
+
+commit 8d4f815d3f67b459b5e33657f674011e5901f029
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue May 3 15:59:37 2022 +0000
+
+    ff
+
+commit 56052f7894307e69802f03fd645c00365820f8f4
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue May 3 15:57:36 2022 +0000
+
+    updated to sort tweets by tweet number
+
+commit b993b58f7cd6ff28d693a69125664dda573ca5a6
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue May 3 14:18:26 2022 +0000
+
+    ..
+
+commit 0a7f5926b3ea3a59ed678f373262a9677d8d9883
+Author: Magnus Simoni Jahn <magnusjahn98@gmail.com>
+Date:   Tue May 3 15:54:23 2022 +0200
+
+    Fixed error in concat.py and updated annotation results.
+
+commit 3a2800ef3ffbff642acf1cc949729ba32f9af221
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Tue May 3 12:39:23 2022 +0200
+
+    combined annotations
+
+commit 59230ece7d376e2656a7e36f296ea966ff94af74
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue May 3 10:29:19 2022 +0000
+
+    deepnote push
+
+commit 500a520b63040eb58061a2a0eee7984cfa8e0345
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Fri Apr 29 08:10:48 2022 +0200
+
+    moved manual annotations to own folder
+
+commit 7d7ee81f265787aa3c76e17e7a8d70f7c54352ca
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Fri Apr 29 08:05:36 2022 +0200
+
+    Create init
+
+commit 840c02787ecdd756b1a651b3fe1d904fcdea7c8b
+Merge: 684d793 a7e3597
+Author: fril <fril@itu.dk>
+Date:   Thu Apr 28 13:53:26 2022 +0200
+
+    Merge branch 'main' of https://github.com/viggo-gascou/fyp2022p03GroupB2
+
+commit a7e35976aaeb659d6d20216aedd51cf76d2a1206
+Merge: 4e43380 5a3964f
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu Apr 28 13:49:00 2022 +0200
+
+    Merge branch 'main' of https://github.com/viggo-gascou/fyp2022p03GroupB2
+
+commit 4e43380cad6034db45c849c2f402eb450a0297ae
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu Apr 28 13:48:57 2022 +0200
+
+    delete lines print
+
+commit 5a3964f66998302dae1ecd8b4a96204a6d01fb72
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 28 13:45:47 2022 +0200
+
+    viggo classifications
+
+commit 684d793c124db6c6778163577624407162f11d2a
+Merge: 93ee493 f920b70
+Author: fril <fril@itu.dk>
+Date:   Thu Apr 28 13:44:42 2022 +0200
+
+    Frida's annotations
+
+commit 93ee493a672b4278acf0488b1c1b06a806d6c038
+Author: fril <fril@itu.dk>
+Date:   Thu Apr 28 13:42:54 2022 +0200
+
+    Frida's annotations
+
+commit f920b70506aedf5112b92f032fb6d818ab20cc03
+Merge: 7ad267b f0ac945
+Author: Magnus Simoni Jahn <magnusjahn98@gmail.com>
+Date:   Thu Apr 28 13:41:59 2022 +0200
+
+    Merge branch 'main' of https://github.com/viggo-gascou/fyp2022p03GroupB2
+
+commit f0ac945e1fcea68123799d9fb75b68fbecbfa3a0
+Author: Marie Haahr Petersen <mhpe@itu.dk>
+Date:   Thu Apr 28 13:41:51 2022 +0200
+
+    Maries annotations
+
+commit 7ad267b14b7f11002a29293df765ff9f9e0b50a5
+Author: Magnus Simoni Jahn <magnusjahn98@gmail.com>
+Date:   Thu Apr 28 13:41:51 2022 +0200
+
+    added manual annotations_magnus
+
+commit a3fa995114da56923aaa21c4b9a3a6a9c79306a4
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu Apr 28 13:31:18 2022 +0200
+
+    gustav's annotations
+
+commit ee4bb90abce936bdb33e19bd057284dc3f48e220
+Merge: 441399c d05c97c
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 28 11:10:45 2022 +0000
+
+    Merge branch 'main' of https://github.com/viggo-gascou/fyp2022p03GroupB2 into main
+
+commit 441399c352bb179aede7b41180c2be4c40ce998c
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 28 11:10:25 2022 +0000
+
+    fixed man annotation
+
+commit d05c97cc3a7138f2a205c6d7a4b2a0c52b84ed7b
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu Apr 28 13:00:53 2022 +0200
+
+    buffer stays
+
+commit 4de99ca88a5dd8f8e3aa7ee0cda78d746554dcd2
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Thu Apr 28 12:57:24 2022 +0200
+
+    manual annotation result script
+
+commit 37f62d22cd92e5339d71aeb945b07e3f63f4ae0a
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 28 10:49:02 2022 +0000
+
+    manual annotation.txt
+
+commit 2f1a22c0b8067fb66fe580eb5de75c53041bb1fd
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 28 10:27:30 2022 +0000
+
+    No longer tracking news-commentary
+
+commit 5c145201a64d363c16670962cef762921471334b
+Merge: 8e62a38 e89c2f5
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 28 10:25:44 2022 +0000
+
+    merge
+
+commit 8e62a38b5cd115c92dc35b55fd6dcc13bd8f4707
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 28 10:19:56 2022 +0000
+
+    Deepnote push
+
+commit e89c2f572831d99e3b996a1ea1f25d5105d5dc4c
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 26 12:17:06 2022 +0200
+
+    stuffs
+
+commit 1edc7427f74ab1f4cf11007ad4771f489a503833
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Mon Apr 25 18:02:12 2022 +0200
+
+    cleared outputs :)
+
+commit 7051113e09fbb020ae0543c4d57c6d3e38c57e20
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Mon Apr 25 18:00:58 2022 +0200
+
+    updated tokenizer to include times and "prices"
+
+commit 022fb0d21650cbc8d8a0e1909eee2f9f03565979
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Mon Apr 25 16:52:09 2022 +0200
+
+    updated tokenizer
+
+commit c043a4cadbe8e124fb0a80412dcb1821141966c1
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 21 23:04:47 2022 +0200
+
+    updated test string
+
+commit 12403d51b275476e2ce6bb5136ba6bbcada76fe4
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 21 23:03:07 2022 +0200
+
+    add regex that might catch everything needed
+
+commit 0b275780a6719abf0c23b29fb21d8b05010727e7
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 21 13:46:29 2022 +0200
+
+    update token_diff
+
+commit 7d795b7fd54323da175b2c92c86551b455a0c163
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 21 11:35:38 2022 +0000
+
+    various things
+
+commit 23a027aa20189b96b10cb22a602ba695ea6fe666
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Thu Apr 21 11:33:15 2022 +0000
+
+    add tokenizer compare notebook
+
+commit e3be5103b2a5a29e9da2d2e938799df7c4037ece
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 21 12:57:14 2022 +0200
+
+    update wordFrequency
+
+commit 8440620f6154bc1f3c6598135605f32a38978a2b
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 21 12:55:24 2022 +0200
+
+    add wordFrequency
+
+commit df57adb85d31054b92b98c85bee2680bab0f1801
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 21 12:04:50 2022 +0200
+
+    add project gutenburg book
+
+commit 66ea312a6a81f29ad7dfd810f14166d0a2424f7c
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Thu Apr 21 10:07:39 2022 +0200
+
+    add frequency plot demo script
+
+commit 985b8eced9eb91b9d34505fd97f96b405bbc514b
+Merge: 39fc867 7e01bfc
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Tue Apr 19 22:47:07 2022 +0200
+
+    Merge branch 'main' of https://github.com/viggo-gascou/fyp2022p03GroupB2
+
+commit 39fc867a41e3a978def6f275a564d50335fd810d
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Tue Apr 19 22:47:05 2022 +0200
+
+    tox.ini ignored
+
+commit 448bf24135dc20f9fa424d3e7b6e3c84dcf2b70a
+Author: Gustav Kristensen <gustavkrist@gmail.com>
+Date:   Tue Apr 19 22:46:56 2022 +0200
+
+    Added newline at EOF
+
+commit 7e01bfcb203bf95b43ed5f56001795f9b8109c9b
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue Apr 19 19:50:58 2022 +0000
+
+    Updated readme
+
+commit 10908e37debd834a3fdc62001b92db7f488f0cd5
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue Apr 19 19:41:12 2022 +0000
+
+    initial empty notebook
+
+commit 4517b00a50b2d6e395e02c1d3b98ae2804c8d8e3
+Author: gustavkrist <gustavkrist@gmail.com>
+Date:   Tue Apr 19 19:41:01 2022 +0000
+
+    shiny new regex pattern
+
+commit 0921012f43ce78c2f185b65c4f92caf6efdf1c25
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 11:36:04 2022 +0200
+
+    Update README.md
+
+commit 24a6da716d188f7a133733326fdba44331826d61
+Author: Viggo Gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 11:02:44 2022 +0200
+
+    added tweeteval
+
+commit bb8b64899ba9b81477a77b836b1b6ef9316e463b
+Author: Viggo Gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 10:57:25 2022 +0200
+
+    remove
+
+commit 490522f8317754ff4a7b20a4b5234099eeb2b6f4
+Author: Viggo Gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 10:56:49 2022 +0200
+
+    test
+
+commit a6235284a804affac2e2d18860bf16bd979fe96d
+Author: Viggo Gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 10:54:00 2022 +0200
+
+    added tweeteval
+
+commit 77e782d6452ddddec7ddb928d75baa3b0496f9be
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 10:36:59 2022 +0200
+
+    Update README.md
+
+commit a029cce4fc1fe4d7f44fa0cb3a37c0fdc8bac119
+Author: Viggo Gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 10:07:36 2022 +0200
+
+    add tokenizer demo script
+
+commit 33a18a96f5c209c413ff94fa6649b83a7ea2215f
+Author: Viggo Gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 10:04:54 2022 +0200
+
+    added project description
+
+commit 548db1cf068f0935ef4afc77322d2e9ec47af74b
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 09:58:52 2022 +0200
+
+    Update .gitignore
+
+commit 74ead597c30e9e362d634602ff74d8595a798567
+Author: viggo-gascou <94069687+viggo-gascou@users.noreply.github.com>
+Date:   Tue Apr 19 09:58:38 2022 +0200
+
+    Initial commit
