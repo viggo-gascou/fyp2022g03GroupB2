@@ -134,3 +134,6 @@ dmypy.json
 tox.ini
 
 news-commentary-v16.txt
+
+# Local Project Tex Files
+overleaf/
